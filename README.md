@@ -77,6 +77,7 @@ These factors help categorize risks into priority levels so that appropriate sec
 
 The assessment is intended as an academic analysis, not as a verified audit of any university's internal infrastructure.
 
+
 ## Proposed Security Policies
 The project recommends the following policies:
 1. **Password Security:** Use strong, unique passwords and multi-factor authentication for sensitive accounts.
@@ -84,6 +85,7 @@ The project recommends the following policies:
 3. **Network Security:** Protect campus networks using firewalls, secure Wi-Fi configurations, monitoring, and regular security reviews.
 4. **Data Protection and Backup:** Protect sensitive information through appropriate access controls, encryption, secure backups, and recovery testing.
 5. **User Awareness:** Train students and staff to recognize phishing, follow safe browsing practices, and report suspicious activity.
+
 
 ## Incident Response Plan
 The proposed incident response process follows five stages:
@@ -101,10 +103,12 @@ The plan supports the fundamental principles of the CIA Triad:
 
 Authentication is also an important security control for verifying user identities.
 
+
 ## Cybersecurity Tools and Learning
 Tools such as Metasploit Framework, Nmap, and Wireshark are relevant to understanding vulnerability assessment, network scanning, and network traffic analysis.
 Studying these tools can help explain how security professionals investigate weaknesses, examine network behavior, and support defensive security decisions.
 Any practical testing should be restricted to systems for which explicit authorization has been granted.
+
 
 ## User Awareness Measures
 The project recommends:
@@ -114,6 +118,7 @@ The project recommends:
 - Avoiding untrusted downloads and unsafe websites.
 - Establishing a clear process for reporting suspicious activity.
 
+
 ## Key Takeaways
 - Cybersecurity risk assessment helps organizations prioritize threats.
 - Effective security policies reduce the likelihood and impact of cyber incidents.
@@ -121,12 +126,14 @@ The project recommends:
 - User awareness is an important part of an institution's overall security strategy.
 - Protecting university systems requires a combination of technical controls, clear policies, and responsible user behavior.
 
+
 ## Project Deliverables
 - Cybersecurity research poster.
 - University cybersecurity risk assessment.
 - Proposed security policies.
 - High-level incident response plan.
 - User awareness recommendations.
+
 
 ## References
 The project should be supported by verified research papers, official cybersecurity guidance, and reliable sources documenting the incidents discussed in the poster.
