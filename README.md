@@ -1,6 +1,3 @@
-# university-cybersecurity-risk-assessment-
-A university focused cybersecurity risk assessment covering major threats, security policies, the CIA triad, incident response, and user awareness.
-
 # University Cybersecurity Risk Assessment & Policy Draft
 **An academic study of cybersecurity risks, security policies, incident response planning, and user awareness in a university environment.**
 ![Project Poster](poster/cybersecurity-risk-assessment.png)
