@@ -1,6 +1,11 @@
 # University Cybersecurity Risk Assessment & Policy Draft
 **An academic study of cybersecurity risks, security policies, incident response planning, and user awareness in a university environment.**
-![Project Poster](poster/cybersecurity-risk-assessment.png)
+![Project Poster](cybersecurity-risk-assessment.png)
+
+## Project Poster
+<p align="center">
+  <img src="cybersecurity-risk-assessment.png" alt="University Cybersecurity Risk Assessment Poster" width="800">
+</p>
 
 ## Overview
 Universities depend on digital systems to manage student records, examinations, faculty information, research activities, financial transactions, and campus networks. These systems face cybersecurity risks that can affect data confidentiality, integrity, and availability.
