@@ -1,6 +1,5 @@
 # University Cybersecurity Risk Assessment & Policy Draft
 **An academic study of cybersecurity risks, security policies, incident response planning, and user awareness in a university environment.**
-![Project Poster](cybersecurity-risk-assessment.png)
 
 ## Project Poster
 <p align="center">
